@@ -5,7 +5,7 @@ entity::entity(){
     MaxHp=0;
 	hp=0;//I could see this being rewritable as tables might have 1hp
 }		 //but again, dirt has no hp, you cant defeat dirt
-
+         //but can dirt defeat you
 entity::entity(int startHealth){
 	MaxHp=startHealth;
 	hp=startHealth;

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 using namespace std;
-//My folder
+//My folder t
 int rollDice(int numSides){
 	int holder=0;
 	srand(time(NULL));

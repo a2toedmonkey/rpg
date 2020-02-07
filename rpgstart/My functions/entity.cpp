@@ -25,6 +25,7 @@ void entity::setHp(int setter){
 
 int entity::getMaxHp(){
 	return MaxHp;
+	
 }
 
 void entity::setMaxHp(int setter){
